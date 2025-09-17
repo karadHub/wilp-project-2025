@@ -203,6 +203,7 @@ This document provides comprehensive guidelines for setting up and using the Tur
 - Similarity percentage will be displayed once processing complete
 
 **Acceptable Similarity:**
+![WhatsApp Image 2025-09-17 at 22 25 47_37e8b5cc](https://github.com/user-attachments/assets/c8b888f8-f7e8-43e7-b750-8627d0267b82)
 
 - **Threshold**: Maximum 25% similarity allowed
 - **Action if >25%**: Must revise and resubmit before deadline
