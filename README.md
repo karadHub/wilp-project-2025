@@ -59,7 +59,6 @@ Here are a few important links frequently used during the final project process:
 - Guidelines for Turnitin account setup: https://docs.google.com/document/d/1deR7NCGwmQdIwagtbre3Y4ocTE3_xFKgCMihx8WNjDE/edit?tab=t.0
 - Viva (BITS system): https://viva.bits-pilani.ac.in/
 
-
 1. **Choose your track**: Navigate to either mid-semester or final project guides
 2. **Download templates**: Use the provided templates for consistency
 3. **Follow the timeline**: Stick to the recommended project milestones
